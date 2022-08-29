@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-//Http Method -> Mapping 기술
+//Http Method -> Mapping
 //Get → 주소창, 하이퍼링크
 //Get, Post → form 태그
 //put, delete, Get, Post → JS
